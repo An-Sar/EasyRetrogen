@@ -1,20 +1,22 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-simpleretrogen.iml
-simpleretrogen.ipr
-simpleretrogen.iws
-
-build/
-.gradle/
+# eclipse
+bin
+*.launch
+.settings
+.metadata
 .classpath
 .project
-/bin
-.idea/
-/run/
-/CHANGELOG.html
-/.okhttpcache/
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run

@@ -1,21 +1,16 @@
 [
 {
-  "modid": "simpleretrogen",
-  "name": "Simple Retrogen",
-  "description": "Simple Retrogen for mods using IWorldGenerator to generate their world stuff.",
+  "modid": "easyretrogen",
+  "name": "Easy Retrogen",
+  "description": "A fork of cpw's simpleretrogen mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "http://github.com/KitsuneAlex/EasyRetrogen",
   "updateUrl": "",
-  "authors": [
-    "cpw"
-  ],
-  "credits": "By cpw",
+  "authorList": ["cpw", "KitsuneAlex"],
+  "credits": "",
   "logoFile": "",
-  "screenshots": [
-  ],
-  "parent":"",
-  "dependencies": [
-  ]
+  "screenshots": [],
+  "dependencies": []
 }
 ]
