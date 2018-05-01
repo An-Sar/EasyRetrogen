@@ -1,4 +1,4 @@
-Simple Retrogen
+Simple Retrogen [![Build Status](http://jenkins.covers1624.net/job/Alex/job/EasyRetrogen/badge/icon)](http://jenkins.covers1624.net/job/Alex/job/EasyRetrogen/)
 ===============
 
 This is a simple retrogeneration mod that should enable other mods to retrogenerate their resources.
